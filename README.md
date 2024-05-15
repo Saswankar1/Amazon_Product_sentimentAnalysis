@@ -2,9 +2,9 @@
 
 It refers to the process of analyzing the sentiment or opinion expressed in customer reviews of Amazon products. This analysis involves using natural language processing (NLP) techniques to extract insights from textual reviews to understand the overall sentiment (positive, negative, or neutral) towards a product.
 
-1. [Data Analysis](python_basic_programs.ipynb)
-2. [Data Science](list_programes.ipynb)
-3. [Dataset](Amazon-Product-Reviews - Amazon Product Review (1).csv)
+1. [Data Analysis](https://github.com/Saswankar1/Amazon_Product_sentimentAnalysis/blob/main/Amazon%20Product%20Sentiment%20Analysis.ipynb)
+2. [Data Science](https://github.com/Saswankar1/Amazon_Product_sentimentAnalysis/blob/main/Amazon%20Sentiment%20Analysis%20Model.ipynb)
+3. [Dataset](https://github.com/Saswankar1/Amazon_Product_sentimentAnalysis/blob/main/Amazon-Product-Reviews%20-%20Amazon%20Product%20Review%20(1).csv)
 
 ----------------------------------------------------------------------------------------------
 
